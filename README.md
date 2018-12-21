@@ -5,5 +5,5 @@ This project does not have the best design...
 I used JavaScript, HTML and CSS.
 
 
-App:https://vasilache-andrei.herokuapp.com/triviador
-Portofolio link:https://vasilache-andrei.herokuapp.com/
+App: https://vasilache-andrei.herokuapp.com/triviador <br>
+Portofolio link: https://vasilache-andrei.herokuapp.com/
